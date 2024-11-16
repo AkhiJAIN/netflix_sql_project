@@ -1,2 +1,2 @@
 # netflix_sql_project
-[NETFLIX SQLPROJECT]()
+[NETFLIX SQL PROJECT](https://github.com/AkhiJAIN/netflix_sql_project/blob/main/logo.png)
